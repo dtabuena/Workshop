@@ -1,0 +1,1 @@
+{"spike_args": {"spike_thresh": 20, "high_dv_thresh": 50, "low_dv_thresh": -30, "window_ms": 2}, "to_plot": true, "max_fit_steps": 5, "rel_slope_cut": 0.7, "Vh_hilo": [-60, -80], "select_mebrane_features": ["Ra", "Rm", "Cm", "tau", "Cmq", "Cmf", "Cmqf", "Cm_pc"], "measure_windows": {"IV_Early": [16.5, 30], "IV_Steady_State": [100, 120]}}
